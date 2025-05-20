@@ -3,19 +3,17 @@
 
 ---
 
-## 🧑‍💻 ABOUT ME
-- 🎓 백석대학교 컴퓨터공학부 졸업 (2025.02)
-- 💡 사용자 중심의 유용한 제품을 만들고자 하는 개발자입니다.
-- 🔍 끊임없이 학습하고, 문제를 끝까지 해결하려는 태도를 갖고 있습니다.
-- 🌱 최근 관심 기술: React, Node.js, Blockchain(Hyperledger Fabric)
+   아직은 많이 부족한 개발자입니다.
+   
+-  백석대학교 컴퓨터공학부 졸업 (2025.02)
+-  시도하지 못한 것을 만들고자 하는 개발자입니다.
+-  끊임없이 학습하고, 문제를 끝까지 해결하려는 태도를 갖고 있습니다.
+-  최근 관심 기술: React, Node.js, Blockchain(Hyperledger Fabric)
 
 ---
 
-## 🔧 기술 스택 및 도구
+기술 스택 및 도구
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -45,9 +43,9 @@
 
 ---
 
-## 💼 주요 프로젝트
+주요 프로젝트
 
-### 📍 서울시 상권 종합 서비스
+서울시 상권 종합 서비스
 > 스마트 기기 관리 및 상권 반경 분석 기능
 
 - 🔗 [GitHub 링크](https://github.com/zaqs1013/seoulAPI)
@@ -57,7 +55,7 @@
 
 ---
 
-### 📍 TemTemu (중고 거래 UI 앱)
+### TemTemu (중고 거래 UI 앱)
 > 테무 스타일 중고거래 앱의 UI 시연
 
 - 🔗 [GitHub 링크](https://github.com/zaqs1013/Carrot)
@@ -66,7 +64,7 @@
 
 ---
 
-### 📍 커피개발 슈팅게임
+### 커피개발 슈팅게임
 > Java Swing GUI를 활용한 이미지 기반 게임
 
 - 🔗 [Blog](https://blog.naver.com/zaqs1013)
@@ -75,7 +73,7 @@
 
 ---
 
-### 📍 연료먹는 슈팅게임
+### 연료먹는 슈팅게임
 > 자바 GUI로 제작한 클래식 슈팅게임
 
 - 🔗 [Blog](https://blog.naver.com/zaqs1013)
@@ -84,14 +82,14 @@
 
 ---
 
-## 📜 자격증
+## 자격증
 
 - 고용서비스전문가 2급
 - 운전면허 1종 보통
 
 ---
 
-## 📫 연락처
+## 연락처
 
 - 📧 이메일: zaqs1013@naver.com  
 - 📱 전화: 010-4536-9267  
