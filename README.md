@@ -30,9 +30,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> **MySQL** | 관계형 데이터베이스 |
 | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="30"/> **MariaDB** | 오픈소스 SQL 데이터베이스 |
 
-> 📌 각 아이콘은 공식 사이트로 연결되지 않지만, 깔끔한 시각 정리용으로 충분합니다.
-
-
 ---
 
 주요 프로젝트
@@ -60,7 +57,7 @@
 > Java Swing GUI를 활용한 이미지 기반 게임
 
 - 🔗 [Blog](https://blog.naver.com/zaqs1013)
-- 기간: 2022.12 ~ 2023.12
+- 기간: 2023.12.01 ~ 2023.12
 - 역할: 기능 구현 80%, UI/UX 설계 50%
 
 ---
@@ -76,9 +73,9 @@
 
 ## 자격증
 
-- 고용서비스전문가 2급
 - 운전면허 1종 보통
-
+- 고용서비스전문가 1급
+  
 ---
 
 ## 연락처
